@@ -42,7 +42,7 @@ While many practitioners have demonstrated that LLMs excel at tasks like summari
 If the use of LLMs for advanced analytics can be optimized and made reliable, we could envision a future where analysts and non-coders alike can request complex computations and receive accurate results without writing a single line of code. This would significantly boost productivity, enabling personnel at all levels to engage with their data in a meaningful way, regardless of technical expertise.
 In this article, I demonstrate S1 and set the foundation for S2. Let's dive in!
 ## Setup
-The Jupyter notebook for this framework is available on [GitHub](https://website-name.com).
+The Jupyter notebook for this framework is available on [GitHub]([https://website-name.com](https://github.com/jasminewilkerson/LLM_reporting/tree/main)).
 ### Dataset
 Given my familiarity with healthcare data, I chose a synthetic healthcare dataset available on Kaggle, curated by Prasad Pati, for demonstration purposes. The dataset can be downloaded [here]. This dataset consists of:
 - 10,000 synthetic patient records, with each row representing a unique patient encounter.
